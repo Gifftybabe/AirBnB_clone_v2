@@ -3,8 +3,10 @@
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 ---
+<p align="center">
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fairbnb-door-gif-4896163&psig=AOvVaw1unGE5fWvFInHO4wLqTYI5&ust=1679453404206000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICG29KB7P0CFQAAAAAdAAAAABAY" alt="Typing SVG" /></a>
+</p>
 
-![image](https://user-images.githubusercontent.com/105078661/226507548-5894aab2-7fe4-46f0-a482-9486d9a8544b.png)
 
 
 1. First clone this repository.
