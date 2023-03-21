@@ -4,7 +4,7 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 <p align="center">
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fairbnb-door-gif-4896163&psig=AOvVaw1unGE5fWvFInHO4wLqTYI5&ust=1679453404206000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICG29KB7P0CFQAAAAAdAAAAABAY" alt="Typing SVG" /></a>
+<a href="https://media.tenor.com/rsSIoLjds9UAAAAC/airbnb-door.gif" alt="Typing SVG" /></a>
 </p>
 
 
